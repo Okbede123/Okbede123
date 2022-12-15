@@ -5,6 +5,7 @@ public class BaiTapPhepNhan {
 
         BaiTapPhepNhan so1 = new BaiTapPhepNhan();
         so1.KetQua();
+        
     }
 
     public void KetQua(){
