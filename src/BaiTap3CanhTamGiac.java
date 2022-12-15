@@ -10,6 +10,7 @@ public class BaiTap3CanhTamGiac {
         Scanner cA = new Scanner(System.in);
         System.out.println("nhap canh A");
         //test
+        //test
         int canhA = cA.nextInt();
         Scanner cB = new Scanner(System.in);
         System.out.println("nhap canh B");
