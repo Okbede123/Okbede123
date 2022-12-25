@@ -1,3 +1,5 @@
+package baitaptest;
+
 public class ViduStatic {
     static int  count = 0; // sẽ lấy bộ nhớ khi instance được tạo ra
 

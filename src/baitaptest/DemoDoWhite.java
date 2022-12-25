@@ -1,3 +1,5 @@
+package baitaptest;
+
 public class DemoDoWhite {
     public static void main(String[] args) {
         DemoDoWhite khoitao = new DemoDoWhite();

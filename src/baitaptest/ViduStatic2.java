@@ -1,3 +1,5 @@
+package baitaptest;
+
 public class ViduStatic2 {
     int rollno;
     String name;
@@ -38,7 +40,7 @@ public class ViduStatic2 {
     }
 
     public static void main(String args[]) {
-        //ViduStatic2.change();
+        //baitaptest.ViduStatic2.change();
 
         ViduStatic2 s1 = new ViduStatic2(111, "Thông");
         s1.changetest();

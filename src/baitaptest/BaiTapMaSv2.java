@@ -1,4 +1,5 @@
-import java.util.Locale;
+package baitaptest;
+
 import java.util.Scanner;
 
 public class BaiTapMaSv2 {

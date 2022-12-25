@@ -1,3 +1,5 @@
+package baitaptest;
+
 import java.util.Scanner;
 
 public class BaiTap3CanhTamGiac {

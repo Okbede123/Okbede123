@@ -1,3 +1,5 @@
+package baitaptest;
+
 public class ViDuStatic3 {
     String name;
     static int soconbo = 0;
